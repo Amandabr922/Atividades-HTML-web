@@ -1,6 +1,10 @@
 # Atividades-HTML-web
 ## Amanda Alves do Nascimento
 
+## 📚 Sobre
+
+Esta atividade foi desenvolvida como parte das práticas da disciplina de **Desenvolvimento Web**, com o objetivo de aplicar e reforçar os conhecimentos vistos em aula, como a estruturação de páginas com HTML.
+
 -[Atividade 01](https://amandabr922.github.io/Atividade-01/)
 
 -[Atividade 02](https://amandabr922.github.io/Atividade-02/)
