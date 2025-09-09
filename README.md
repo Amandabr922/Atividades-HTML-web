@@ -15,7 +15,7 @@
 
 -[Atividade 07](https://amandabr922.github.io/Atividade-07/)
 
--[Atividade 08](https://amandabr922.github.io/Atividade-08/)
+-[Atividade 08](https://amandabr922.github.io/atividade-08/)
 
 -[Atividade 09](https://amandabr922.github.io/Atividade-09/)
 
